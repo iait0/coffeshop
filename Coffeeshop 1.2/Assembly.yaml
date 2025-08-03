@@ -1,0 +1,9 @@
+ManifestVersion: 1.0
+ProjectKind: Application
+Vendor: cs
+Name: coffee_shop
+Version: 1.2
+Created: 2025.07.25 14:11:56
+BranchName: release/1.2
+Release:
+    Created: 2025.07.25 14:11:41
